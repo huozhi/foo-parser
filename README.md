@@ -1,15 +1,11 @@
-#A Very Simple Analyser For C
+# A Very Simple Analyser
+> python synatax like language lexcial Analyser
 
-###about
-    very very simple and weak c analyser...
-    powered by c++.
+### keywords
 
-###lexcial Analyser
-- available for int, char
-- extract keywords, variables and digits
-
-
-###syntax Analyser
-- not start yet
-
-
+```
+"if", "while", "elif", "else", "yield", "True", "False",
+"import", "from", "and", "or", "xor", "break", "continue",
+"in", "for", "as", "del", "def", "return", "lambda",
+"try", "except", "raise", "assert", "is", "not"
+```
